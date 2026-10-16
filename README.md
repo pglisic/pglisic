@@ -4,4 +4,6 @@ I am an M.Sc. Robotics, Cognition, Intelligence student at [TUM](https://www.tum
 
 Currently on exchange at [Institute of Science Tokyo](https://www.isct.ac.jp/en) 🇯🇵
 
-[LinkedIn](https://www.linkedin.com/in/pavle-glisic-b0b2371b6)
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavle-glisic-b0b2371b6)
